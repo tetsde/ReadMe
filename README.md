@@ -39,5 +39,5 @@ Tôi là một Data Analyst với niềm đam mê biến dữ liệu thô thành
 
 ### 📫 Kết nối với tôi
 * [LinkedIn] https://www.linkedin.com/in/tongphuochoainam2606/
-* [Portfolio/Website](tphworks.id.vn)
-* Email: tphn.work@gmail.com
+* [Portfolio/Website] tphworks.id.vn
+* Email: tphn26.work@gmail.com
